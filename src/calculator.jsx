@@ -6,7 +6,7 @@ export default function Calculator({onInput,initialInvestment,annualInvestment,e
         <>
             <div id="header">
                 <img src="../investment-calculator-logo.png" alt="logo showing a money in the bag" />
-                <h1 >Investment Calculator</h1>
+                <h1 >Testing Investment Calculator</h1>
             </div>
             <div id="user-input" >
                 
